@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+}
+h3{
+    color: white;
+ }
+ p{
+     color: white;
+ }
+ a{
+     color: white;
+ }
+ ol{
+     color: white;
+ }
+ hr{
+ border-style: none;
+ border-top-style: dotted;
+ border-color: #fc5404;
+ border-width: 5px;
+ width:50%;
+ }
+ 
